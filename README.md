@@ -77,3 +77,45 @@ https://github.com/emanCodesHub
 ---
 
 ## ⭐ If you like this project don't forget to Star the Repository.
+
+# ☕ BeanForecast AI App
+
+This folder contains the complete Streamlit application.
+
+## Files
+
+- app.py
+- style.css
+- pages/
+
+## Pages
+
+🏠 Home
+
+🤖 Predict Revenue
+
+📊 Analytics
+
+👨‍💻 About
+
+## Run
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## Features
+
+- Premium Coffee UI
+- Revenue Prediction
+- Analytics Dashboard
+- AI Insights
+- Business Recommendations
+
+---
+
+Developed by
+
+Eman Zainab
